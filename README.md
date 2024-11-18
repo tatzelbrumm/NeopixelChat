@@ -1,1 +1,1 @@
-Nov 18, 2024 10-32-52 PM WS2812B Brightness Control.md
+WS2812B Brightness Control.md
