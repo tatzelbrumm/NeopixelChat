@@ -1,2 +1,1 @@
-# NeopixelChat
-Conversation with ChatGPT 4o about WS2812 Neopixels
+Nov 18, 2024 10-32-52 PM WS2812B Brightness Control.md
